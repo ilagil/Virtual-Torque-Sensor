@@ -47,7 +47,7 @@ The model successfully tracks transient current spikes and predicts correspondin
 ---
 
 ## 🚀 How to Run
-1.  Place all project files in your working directory (e.g., `C:\Users\ilaga\Documents\Wesa\`).
+1.  Place all project files in your working directory (e.g., `C:\Users\YourProfile\Documents\Wesa\`).
 2.  Execute **`run_me.mlx`** to load parameters and assemble the network.
 3.  Open **`ProjectRem.slx`** and set the simulation Stop Time to `79.4`.
 4.  Run the simulation and open the **Scope** to verify the performance.
